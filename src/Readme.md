@@ -4,7 +4,7 @@
 
 Con este proyecto quería "cacharrear" con paneles de matrices LED 8x8, modelo 1588BS, y crear un dado electrónico.
 
-![Dado Electrónico](/Fotos/dado_(1).jpg)
+![Dado Electrónico](/Fotos/dado(1).jpg)
 ___
 
 ## DESCRIPCIÓN DEL PROYECTO
