@@ -13,7 +13,7 @@ Este proyecto desarrolla un dado electrónico mediante un panel de matrices led 
 
 El funcionamiento es el siguiente:
 
-Al mover el dado, los detectores "tilt" actúan provocando una interrupción que hace que aleatoriamente pasados unos 2 segundos se muestre un valor del dado en el panel led. Este valor se mantiene fijo hasta que se vuelve a mover el dado y se produce una nueva interrupción que hace que se vuelva a calcular un nuevo valor del dado.
+Al mover el dado, los detectores "tilt" actúan provocando una interrupción que hace que aleatoriamente pasados unos 2 segundos se muestre el valor del dado en el panel led. Este valor se mantiene fijo hasta que se vuelve a mover el dado y se produce una nueva interrupción.
 
 ## AYUDA PARA SU REALIZACIÓN
 
